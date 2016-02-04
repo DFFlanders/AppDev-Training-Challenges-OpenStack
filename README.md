@@ -24,5 +24,9 @@ While the minimum problem-set MUST have 3x challenges, additional challenges and
  * Links and references to what other problem-sets which are applicable.
  * etc
 
+# Ok, now it's your turn...
+1. Start by branching the following template problem-set file.
+2. Once you've created your minimum 3x problems then submit a pull request so we can add your problem-set to master bank of learning challenges for OpenStack application developer training!
+3. We'll start tweeting and singing your praises on the mailing list so our community of trainers can start using your newly minted learning challenges in their training.
 
 
