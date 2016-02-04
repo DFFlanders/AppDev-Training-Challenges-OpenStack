@@ -14,7 +14,7 @@
  * ProTip: foobar
  * Context: remember XYZ and/or see this `link`
 
-## (2) Intermedia Problem: <describe the learning challenge>
+## (2) Intermediate Problem: <describe the learning challenge>
  * In groups of NN people, solve the following X by doing Y, once you have an answer do Z to check your solution.
  * ProTip: foobar
  * Context: remember XYZ and/or see this `link`
