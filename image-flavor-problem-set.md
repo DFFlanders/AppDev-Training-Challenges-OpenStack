@@ -1,4 +1,4 @@
-Problem-set for Application Developer Training
+# Problem-set for Application Developer Training
  * Challenge: select a cloud instance for your cloud application
  * Learning objectives (what will participants learn by completing these challenges?)
    * a.) learn how to select which image and flavour to use with your application.
