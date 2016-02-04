@@ -1,11 +1,11 @@
 <NB Write these problem-sets as JSON/YAML?>
 
 # Problem-set for Application Developer Training
- * Name of problem-set
- * learning objectives (what will participants learn by completing these problems?)
-   * learning objective a.) 
-   * learning objective b.) 
- * Relationship these problems have to other problems:
+ * <Fun name for this learning challenge>
+ * Learning objectives (what will participants learn by completing these challenges?)
+   * a.) by completing this challenge you will learn...
+   * b.) by completing this challenge you will learn...
+ * Relationship these problem-sets have to other problems-sets:
    * <link> to previously used problem-sets
    * <link> to next problem-sets.
 
